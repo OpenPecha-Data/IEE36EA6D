@@ -1,0 +1,255 @@
+id: IEE36EA6D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:36:09.195525'
+last_modified: '2022-05-30T20:36:09.195536'
+parser: null
+source_metadata:
+  title: Dudjom Rinpoche Series
+  language: fr
+  description: 'We present the following texts by Kyabje Dudjom Rinpoche Jikdral Yeshe
+    Dorje (bdud ''joms ''jigs bral ye shes rdo rje, 1904–1987), the renowned yogi
+    and scholar and first appointed head of the Nyingma school in exile:'
+  volume:
+    fB8E7:
+      title: The Mirror Clearly Showing What to Adopt and Abandon
+      base_file: fB8E7.txt
+      order: 1
+      parent: Advice
+    f8793:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      base_file: f8793.txt
+      order: 2
+      parent: Benefits
+    fB485:
+      title: 'The Light of Primordial Wisdom: An Instruction Manual for the Primordially
+        Pure Perfection Stage of the Powerful & Wrathful Dorje Drolö, Conqueror of
+        Demons'
+      base_file: fB485.txt
+      order: 3
+      parent: Commentaries
+    f776E:
+      title: The Ornament of Padmasambhava’s Enlightened Vision
+      base_file: f776E.txt
+      order: 4
+      parent: Commentaries
+    f0FC3:
+      title: Concise Consecration
+      base_file: f0FC3.txt
+      order: 5
+      parent: Consecration
+    fAAAA:
+      title: A Brief Petitionary Offering to the Mātṛkā Pukkasī, Local Protectress
+        of the Jarung Kashor Stūpa
+      base_file: fAAAA.txt
+      order: 6
+      parent: Dharma Protectors
+    f020D:
+      title: Dzogchen Aspiration Prayer
+      base_file: f020D.txt
+      order: 7
+      parent: Dzogchen
+    fAF25:
+      title: 'Spontaneous Song of the Genuine Nature: A Prayer of Calling the Guru
+        from Afar'
+      base_file: fAF25.txt
+      order: 8
+      parent: Dzogchen
+    f220E:
+      title: Summary of Striking the Vital Point in Three Statements
+      base_file: f220E.txt
+      order: 9
+      parent: Dzogchen
+    f10AA:
+      title: 'A Joyful Chariot for the Fortunate: An Aspiration to Travel to the Copper-Coloured
+        Mountain of Glory'
+      base_file: f10AA.txt
+      order: 10
+      parent: Guru Rinpoche Prayers
+    f681F:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: f681F.txt
+      order: 11
+      parent: Guru Rinpoche Prayers
+    f1253:
+      title: A Short Prayer to the Abbot, the Master and the King
+      base_file: f1253.txt
+      order: 12
+      parent: Guru Rinpoche Prayers
+    fD824:
+      title: 'Drumbeat of the Deathless Vajra: A Fervent Invocation and Prayer'
+      base_file: fD824.txt
+      order: 13
+      parent: Guru Rinpoche Prayers
+    fFBB9:
+      title: The Prayer to Guru Rinpoche that Swiftly Removes Obstacles and Fulfills
+        All Wishes
+      base_file: fFBB9.txt
+      order: 14
+      parent: Guru Rinpoche Prayers
+    fDE0D:
+      title: A Concise Lineage Prayer
+      base_file: fDE0D.txt
+      order: 15
+      parent: Lineage Prayers
+    f1F40:
+      title: Prayer for the Long Life Dodrupchen Rinpoche
+      base_file: f1F40.txt
+      order: 16
+      parent: Long Life Prayers
+    f88A8:
+      title: Prayer for the Long Life of Chökyi Nyima Rinpoche
+      base_file: f88A8.txt
+      order: 17
+      parent: Long Life Prayers
+    fA0E4:
+      title: Prayer for the Long Life of Dzogchen Rinpoche
+      base_file: fA0E4.txt
+      order: 18
+      parent: Long Life Prayers
+    f49A0:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: f49A0.txt
+      order: 19
+      parent: Long Life Prayers
+    fF543:
+      title: 'The Drumbeat of Immortality: A Prayer for the Long Life of the Great
+        Tertön Dudjom Jigdral Yeshe Dorje'
+      base_file: fF543.txt
+      order: 20
+      parent: Long Life Prayers
+    f0E01:
+      title: A Concise Recitation of the Preliminary Practice according to the New
+        Treasure of Dudjom
+      base_file: f0E01.txt
+      order: 21
+      parent: Ngöndro
+    f3391:
+      title: Brief Notes on the Visualization for the Concise Recitation of the Pure
+        Vision Preliminary Practice
+      base_file: f3391.txt
+      order: 22
+      parent: Ngöndro
+    fC898:
+      title: Brief Red Sur Offering
+      base_file: fC898.txt
+      order: 23
+      parent: Offering
+    fBB93:
+      title: Brief Sur Offering
+      base_file: fBB93.txt
+      order: 24
+      parent: Offering
+    fEED0:
+      title: A Prayer to Recognize My Own Faults and Keep in Mind the Objects of Refuge
+      base_file: fEED0.txt
+      order: 25
+      parent: Prayers
+    fFB77:
+      title: Essence and Embodiment of All the Buddhas
+      base_file: fFB77.txt
+      order: 26
+      parent: Prayers
+    f37C0:
+      title: Prayer to the Three Great Stūpas of Kathmandu
+      base_file: f37C0.txt
+      order: 27
+      parent: Prayers
+    fBC74:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      base_file: fBC74.txt
+      order: 28
+      parent: Sādhanas
+    f085A:
+      title: A Daily Long-Life Practice of Amitāyus
+      base_file: f085A.txt
+      order: 29
+      parent: Sādhanas
+    f620A:
+      title: A Daily Practice of Lama Sangdü
+      base_file: f620A.txt
+      order: 30
+      parent: Sādhanas
+    fB98D:
+      title: A Daily Practice of Ucchuṣma
+      base_file: fB98D.txt
+      order: 31
+      parent: Sādhanas
+    fAA4F:
+      title: Condensed Daily Practice of The Heart Essence of the Sublime Lady of
+        Immortality
+      base_file: fAA4F.txt
+      order: 32
+      parent: Sādhanas
+    fC45C:
+      title: Daily Practice of Dorje Gotrab
+      base_file: fC45C.txt
+      order: 33
+      parent: Sādhanas
+    fA5DB:
+      title: 'The Blazing Tower: A Daily Practice of Uṣṇīṣa-Sitātapatrā'
+      base_file: fA5DB.txt
+      order: 34
+      parent: Sādhanas
+    f4C97:
+      title: 'The Concentrated Essence: A Sādhana of Yeshe Tsogyal'
+      base_file: f4C97.txt
+      order: 35
+      parent: Sādhanas
+    f7A78:
+      title: The Daily Practice of the Secret Sādhana of Dorje Drolö
+      base_file: f7A78.txt
+      order: 36
+      parent: Sādhanas
+    f18DC:
+      title: The Essential Daily Practice of Vajrakīla
+      base_file: f18DC.txt
+      order: 37
+      parent: Sādhanas
+    fC7CC:
+      title: 'The Sublime Path to Immortality: The Quintessence of Profoundly Secret
+        Pith Instructions on Attaining Vajra Longevity'
+      base_file: fC7CC.txt
+      order: 38
+      parent: Sādhanas
+    f5A10:
+      title: 'Divine Blue Water: A Contamination Purifying Smoke Offering by the Great
+        Master Padmasambhava'
+      base_file: f5A10.txt
+      order: 39
+      parent: Sang Offering
+    fA072:
+      title: The Mountain Smoke Offering Arranged for Recitation
+      base_file: fA072.txt
+      order: 40
+      parent: Sang Offering
+    f6819:
+      title: 'The Concentrated Essence: A Concise Practice of Healing and Purifying
+        (Sojong) the Three Sets of Vows'
+      base_file: f6819.txt
+      order: 41
+      parent: Sojong
+    f6F80:
+      title: Remainder Torma Offering for Seven-Line Prayer Guru Yoga
+      base_file: f6F80.txt
+      order: 42
+      parent: Tsok
+    f07B4:
+      title: The Brief Tsok Feast Offering Prayer from 'The Profound Path of the Ḍākinīs'
+        Heart Drop'
+      base_file: f07B4.txt
+      order: 43
+      parent: Tsok
+    fE41E:
+      title: A Daily Practice of Vajraṇakhī
+      base_file: fE41E.txt
+      order: 44
+      parent: Vajraṇakhī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
